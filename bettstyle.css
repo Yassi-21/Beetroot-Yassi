@@ -8,11 +8,11 @@
 }
 
 .test_class {
-  color: red;
+  color: blue;
 } 
 
 * {
-  color: green;
+  color: violet;
 }
 
 /* p {
